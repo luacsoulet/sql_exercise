@@ -1,0 +1,3 @@
+﻿Nom : Magalhaes
+Prénom : Lucas
+Lien GitHub : https://github.com/luacsoulet/sql_exercise
